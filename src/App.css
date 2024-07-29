@@ -1,6 +1,7 @@
 .container {
   gap: 70px;
   display: flex;
+
   justify-content: center;
   flex-wrap: wrap;
 }
@@ -29,4 +30,7 @@ a {
   font-size: 30px;
   width: 200px;
   height: 50px;
+}
+image {
+  object-fit: cover;
 }
